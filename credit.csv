@@ -1,0 +1,1001 @@
+chk.acc,credit.len,credit.amount,save.acc,gender,marital.status,age,other.installment,class
+"(-inf,0)",6,1169,No acc,M,Single,67,None,Good
+"[0,200)",48,5951,"(-inf,100)",F,Other,22,None,Bad
+No acc,12,2096,"(-inf,100)",M,Single,49,None,Good
+"(-inf,0)",42,7882,"(-inf,100)",M,Single,45,None,Good
+"(-inf,0)",24,4870,"(-inf,100)",M,Single,53,None,Bad
+No acc,36,9055,No acc,M,Single,35,None,Good
+No acc,24,2835,"[500,1000)",M,Single,53,None,Good
+"[0,200)",36,6948,"(-inf,100)",M,Single,35,None,Good
+No acc,12,3059,"[1000,inf)",M,Other,61,None,Good
+"[0,200)",30,5234,"(-inf,100)",M,Other,28,None,Bad
+"[0,200)",12,1295,"(-inf,100)",F,Other,25,None,Bad
+"(-inf,0)",48,4308,"(-inf,100)",F,Other,24,None,Bad
+"[0,200)",12,1567,"(-inf,100)",F,Other,22,None,Good
+"(-inf,0)",24,1199,"(-inf,100)",M,Single,60,None,Bad
+"(-inf,0)",15,1403,"(-inf,100)",F,Other,28,None,Good
+"(-inf,0)",24,1282,"[100,500)",F,Other,32,None,Bad
+No acc,24,2424,No acc,M,Single,53,None,Good
+"(-inf,0)",30,8072,No acc,M,Single,25,Bank,Good
+"[0,200)",24,12579,"(-inf,100)",F,Other,44,None,Bad
+No acc,24,3430,"[500,1000)",M,Single,31,None,Good
+No acc,9,2134,"(-inf,100)",M,Single,48,None,Good
+"(-inf,0)",6,2647,"[500,1000)",M,Single,44,None,Good
+"(-inf,0)",10,2241,"(-inf,100)",M,Single,48,None,Good
+"[0,200)",12,1804,"[100,500)",M,Single,44,None,Good
+No acc,10,2069,No acc,M,Other,26,None,Good
+"(-inf,0)",6,1374,"(-inf,100)",M,Single,36,Bank,Good
+No acc,6,426,"(-inf,100)",M,Other,39,None,Good
+"[200,inf)",12,409,"[1000,inf)",F,Other,42,None,Good
+"[0,200)",7,2415,"(-inf,100)",M,Single,34,None,Good
+"(-inf,0)",60,6836,"(-inf,100)",M,Single,63,None,Bad
+"[0,200)",18,1913,"[1000,inf)",M,Other,36,Bank,Good
+"(-inf,0)",24,4020,"(-inf,100)",M,Single,27,Stores,Good
+"[0,200)",18,5866,"[100,500)",M,Single,30,None,Good
+No acc,12,1264,No acc,M,Single,57,None,Good
+"[200,inf)",12,1474,"(-inf,100)",F,Other,33,Bank,Good
+"[0,200)",45,4746,"(-inf,100)",M,Single,25,None,Bad
+No acc,48,6110,"(-inf,100)",M,Single,31,Bank,Good
+"[200,inf)",18,2100,"(-inf,100)",M,Single,37,Stores,Bad
+"[200,inf)",10,1225,"(-inf,100)",M,Single,37,None,Good
+"[0,200)",9,458,"(-inf,100)",M,Single,24,None,Good
+No acc,30,2333,"[500,1000)",M,Single,30,Bank,Good
+"[0,200)",12,1158,"[500,1000)",M,Other,26,None,Good
+"[0,200)",18,6204,"(-inf,100)",M,Single,44,None,Good
+"(-inf,0)",30,6187,"[100,500)",M,Other,24,None,Good
+"(-inf,0)",48,6143,"(-inf,100)",F,Other,58,Stores,Bad
+No acc,11,1393,"(-inf,100)",F,Other,35,None,Good
+No acc,36,2299,"[500,1000)",M,Single,39,None,Good
+"(-inf,0)",6,1352,"[500,1000)",F,Other,23,None,Good
+No acc,11,7228,"(-inf,100)",M,Single,39,None,Good
+No acc,12,2073,"[100,500)",F,Other,28,None,Good
+"[0,200)",24,2333,No acc,M,Single,29,Bank,Good
+"[0,200)",27,5965,"(-inf,100)",M,Single,30,None,Good
+No acc,12,1262,"(-inf,100)",M,Single,25,None,Good
+No acc,18,3378,No acc,M,Single,31,None,Good
+"[0,200)",36,2225,"(-inf,100)",M,Single,57,Bank,Bad
+No acc,6,783,No acc,M,Single,26,Stores,Good
+"[0,200)",12,6468,No acc,M,Single,52,None,Bad
+No acc,36,9566,"(-inf,100)",F,Other,31,Stores,Good
+"[200,inf)",18,1961,"(-inf,100)",F,Other,23,None,Good
+"(-inf,0)",36,6229,"(-inf,100)",F,Other,23,None,Bad
+"[0,200)",9,1391,"(-inf,100)",M,Other,27,Bank,Good
+"[0,200)",15,1537,No acc,M,Single,50,None,Good
+"[0,200)",36,1953,"(-inf,100)",M,Single,61,None,Bad
+"[0,200)",48,14421,"(-inf,100)",M,Single,25,None,Bad
+No acc,24,3181,"(-inf,100)",F,Other,26,None,Good
+No acc,27,5190,No acc,M,Single,48,None,Good
+No acc,12,2171,"(-inf,100)",F,Other,29,Bank,Good
+"[0,200)",12,1007,"[1000,inf)",M,Other,22,None,Good
+No acc,36,1819,"(-inf,100)",M,Single,37,Stores,Bad
+No acc,36,2394,No acc,F,Other,25,None,Good
+No acc,36,8133,"(-inf,100)",F,Other,30,Bank,Good
+No acc,7,730,No acc,M,Single,46,None,Good
+"(-inf,0)",8,1164,"(-inf,100)",M,Single,51,Bank,Good
+"[0,200)",42,5954,"(-inf,100)",F,Other,41,Bank,Good
+"(-inf,0)",36,1977,No acc,M,Single,40,None,Bad
+"(-inf,0)",12,1526,"(-inf,100)",M,Single,66,None,Good
+"(-inf,0)",42,3965,"(-inf,100)",M,Single,34,None,Bad
+"[0,200)",11,4771,"(-inf,100)",M,Single,51,None,Good
+No acc,54,9436,No acc,M,Single,39,None,Good
+"[0,200)",30,3832,"(-inf,100)",M,Other,22,None,Good
+No acc,24,5943,No acc,F,Other,44,None,Bad
+No acc,15,1213,"[500,1000)",M,Single,47,Stores,Good
+No acc,18,1568,"[100,500)",F,Other,24,None,Good
+"(-inf,0)",24,1755,"(-inf,100)",F,Other,58,None,Good
+"(-inf,0)",10,2315,"(-inf,100)",M,Single,52,None,Good
+No acc,12,1412,"(-inf,100)",F,Other,29,None,Good
+"[0,200)",18,1295,"(-inf,100)",F,Other,27,None,Good
+"[0,200)",36,12612,"[100,500)",M,Single,47,None,Bad
+"(-inf,0)",18,2249,"[100,500)",M,Single,30,None,Good
+"(-inf,0)",12,1108,"(-inf,100)",M,Single,28,None,Bad
+No acc,12,618,"(-inf,100)",M,Single,56,None,Good
+"(-inf,0)",12,1409,"(-inf,100)",M,Single,54,None,Good
+No acc,12,797,No acc,F,Other,33,Bank,Bad
+"[200,inf)",24,3617,No acc,M,Single,20,None,Good
+"[0,200)",12,1318,"[1000,inf)",M,Single,54,None,Good
+"[0,200)",54,15945,"(-inf,100)",M,Single,58,None,Bad
+No acc,12,2012,No acc,F,Other,61,None,Good
+"[0,200)",18,2622,"[100,500)",M,Single,34,None,Good
+"[0,200)",36,2337,"(-inf,100)",M,Single,36,None,Good
+"[0,200)",20,7057,No acc,M,Single,36,Bank,Good
+No acc,24,1469,"[100,500)",M,Other,41,None,Good
+"[0,200)",36,2323,"(-inf,100)",M,Single,24,None,Good
+No acc,6,932,"(-inf,100)",F,Other,24,None,Good
+"[0,200)",9,1919,"(-inf,100)",M,Single,35,None,Good
+No acc,12,2445,No acc,M,Other,26,None,Good
+"[0,200)",24,11938,"(-inf,100)",M,Single,39,None,Bad
+No acc,18,6458,"(-inf,100)",M,Single,39,Bank,Bad
+"[0,200)",12,6078,"(-inf,100)",M,Single,32,None,Good
+"(-inf,0)",24,7721,No acc,F,Other,30,None,Good
+"[0,200)",14,1410,"[500,1000)",M,Other,35,None,Good
+"[0,200)",6,1449,"[100,500)",M,Other,31,Bank,Good
+"[200,inf)",15,392,"(-inf,100)",F,Other,23,None,Good
+"[0,200)",18,6260,"(-inf,100)",M,Single,28,None,Good
+No acc,36,7855,"(-inf,100)",F,Other,25,Stores,Bad
+"(-inf,0)",12,1680,"[500,1000)",M,Other,35,None,Good
+No acc,48,3578,No acc,M,Single,47,None,Good
+"(-inf,0)",42,7174,No acc,F,Other,30,None,Bad
+"(-inf,0)",10,2132,No acc,F,Other,27,None,Good
+"(-inf,0)",33,4281,"[500,1000)",F,Other,23,None,Bad
+"[0,200)",12,2366,"[500,1000)",M,Other,36,None,Good
+"(-inf,0)",21,1835,"(-inf,100)",F,Other,25,None,Bad
+No acc,24,3868,"(-inf,100)",F,Other,41,None,Good
+No acc,12,1768,"(-inf,100)",M,Single,24,None,Good
+"[200,inf)",10,781,"(-inf,100)",M,Single,63,None,Good
+"[0,200)",18,1924,No acc,F,Other,27,None,Bad
+"(-inf,0)",12,2121,"(-inf,100)",M,Single,30,None,Good
+"(-inf,0)",12,701,"(-inf,100)",M,Other,40,None,Good
+"[0,200)",12,639,"(-inf,100)",M,Single,30,None,Bad
+"[0,200)",12,1860,"(-inf,100)",M,Single,34,None,Good
+"(-inf,0)",12,3499,"(-inf,100)",F,Other,29,None,Bad
+"[0,200)",48,8487,No acc,F,Other,24,None,Good
+"(-inf,0)",36,6887,"(-inf,100)",M,Single,29,Stores,Bad
+No acc,15,2708,"(-inf,100)",M,Single,27,Bank,Good
+No acc,18,1984,"(-inf,100)",M,Single,47,Bank,Good
+No acc,60,10144,"[100,500)",F,Other,21,None,Good
+No acc,12,1240,No acc,F,Other,38,None,Good
+No acc,27,8613,"[1000,inf)",M,Single,27,None,Good
+"[0,200)",12,766,"[500,1000)",M,Single,66,None,Bad
+"[0,200)",15,2728,No acc,M,Single,35,Bank,Good
+"[200,inf)",12,1881,"(-inf,100)",F,Other,44,None,Good
+"[200,inf)",6,709,"[1000,inf)",M,Other,27,None,Good
+"[0,200)",36,4795,"(-inf,100)",F,Other,30,None,Good
+"(-inf,0)",27,3416,"(-inf,100)",M,Single,27,None,Good
+"(-inf,0)",18,2462,"(-inf,100)",M,Single,22,None,Bad
+No acc,21,2288,"(-inf,100)",F,Other,23,None,Good
+"[0,200)",48,3566,"[100,500)",M,Single,30,None,Good
+"(-inf,0)",6,860,"(-inf,100)",F,Other,39,None,Good
+No acc,12,682,"[100,500)",F,Other,51,None,Good
+"(-inf,0)",36,5371,"(-inf,100)",M,Single,28,None,Good
+No acc,18,1582,"[1000,inf)",M,Single,46,None,Good
+No acc,6,1346,"[100,500)",M,Single,42,Bank,Good
+No acc,10,1924,"(-inf,100)",M,Single,38,None,Good
+"[200,inf)",36,5848,"(-inf,100)",M,Single,24,None,Good
+"[0,200)",24,7758,"[1000,inf)",F,Other,29,None,Good
+"[0,200)",24,6967,"[100,500)",M,Single,36,None,Good
+"(-inf,0)",12,1282,"(-inf,100)",F,Other,20,None,Bad
+"(-inf,0)",9,1288,"[100,500)",M,Single,48,None,Good
+"(-inf,0)",12,339,"(-inf,100)",M,Other,45,Bank,Good
+"[0,200)",24,3512,"[100,500)",M,Single,38,Bank,Good
+No acc,6,1898,No acc,M,Single,34,None,Good
+No acc,24,2872,"[100,500)",M,Single,36,None,Good
+No acc,18,1055,"(-inf,100)",F,Other,30,None,Good
+No acc,15,1262,"[500,1000)",M,Single,36,None,Good
+"[0,200)",10,7308,"(-inf,100)",M,Single,70,Bank,Good
+No acc,36,909,"[500,1000)",M,Single,36,None,Good
+No acc,6,2978,"[500,1000)",M,Single,32,None,Good
+"(-inf,0)",18,1131,"(-inf,100)",F,Other,33,None,Bad
+"[0,200)",11,1577,"[1000,inf)",F,Other,20,None,Good
+No acc,24,3972,"(-inf,100)",F,Other,25,None,Good
+"[0,200)",24,1935,"(-inf,100)",M,Other,31,None,Bad
+"(-inf,0)",15,950,"(-inf,100)",M,Single,33,None,Bad
+No acc,12,763,"(-inf,100)",F,Other,26,None,Good
+"[0,200)",24,2064,"(-inf,100)",F,Other,34,None,Bad
+"[0,200)",8,1414,"(-inf,100)",M,Single,33,None,Good
+"(-inf,0)",21,3414,"(-inf,100)",M,Single,26,None,Bad
+No acc,30,7485,No acc,F,Other,53,Bank,Bad
+"(-inf,0)",12,2577,"(-inf,100)",M,Other,42,None,Good
+"(-inf,0)",6,338,"[500,1000)",M,Single,52,None,Good
+No acc,12,1963,"(-inf,100)",M,Single,31,None,Good
+"(-inf,0)",21,571,"(-inf,100)",M,Single,65,None,Good
+No acc,36,9572,"(-inf,100)",M,Other,28,None,Bad
+"[0,200)",36,4455,"(-inf,100)",M,Other,30,Stores,Bad
+"(-inf,0)",21,1647,No acc,M,Single,40,None,Bad
+No acc,24,3777,"[1000,inf)",M,Single,50,None,Good
+"[0,200)",18,884,"(-inf,100)",M,Single,36,Bank,Bad
+No acc,15,1360,"(-inf,100)",M,Single,31,None,Good
+"[0,200)",9,5129,"(-inf,100)",F,Other,74,Bank,Bad
+"[0,200)",16,1175,"(-inf,100)",M,Single,68,None,Good
+"(-inf,0)",12,674,"[100,500)",M,Other,20,None,Bad
+"[0,200)",18,3244,"(-inf,100)",F,Other,33,Bank,Good
+No acc,24,4591,"[1000,inf)",M,Single,54,None,Bad
+"[0,200)",48,3844,"[100,500)",M,Single,34,None,Bad
+"[0,200)",27,3915,"(-inf,100)",M,Single,36,None,Bad
+No acc,6,2108,"(-inf,100)",M,Other,29,None,Good
+"[0,200)",45,3031,"[100,500)",M,Single,21,None,Bad
+"[0,200)",9,1501,"(-inf,100)",F,Other,34,None,Bad
+No acc,6,1382,"(-inf,100)",F,Other,28,None,Good
+"[0,200)",12,951,"[100,500)",F,Other,27,Bank,Bad
+"[0,200)",24,2760,No acc,M,Single,36,Bank,Good
+"[0,200)",18,4297,"(-inf,100)",M,Other,40,None,Bad
+No acc,9,936,"[500,1000)",M,Single,52,None,Good
+"(-inf,0)",12,1168,"(-inf,100)",M,Other,27,None,Good
+No acc,27,5117,"(-inf,100)",M,Single,26,None,Good
+"(-inf,0)",12,902,"(-inf,100)",M,Other,21,None,Bad
+No acc,12,1495,"(-inf,100)",M,Single,38,None,Good
+"(-inf,0)",30,10623,"(-inf,100)",M,Single,38,None,Good
+No acc,12,1935,"(-inf,100)",M,Single,43,None,Good
+"[0,200)",12,1424,"(-inf,100)",M,Single,26,None,Good
+"(-inf,0)",24,6568,"(-inf,100)",M,Other,21,Stores,Good
+No acc,12,1413,"[1000,inf)",M,Single,55,None,Good
+No acc,9,3074,No acc,M,Single,33,None,Good
+No acc,36,3835,No acc,F,Other,45,None,Good
+"(-inf,0)",27,5293,"(-inf,100)",M,Single,50,Stores,Bad
+"[200,inf)",30,1908,"(-inf,100)",M,Single,66,None,Bad
+No acc,36,3342,No acc,M,Single,51,None,Good
+"[0,200)",6,932,No acc,F,Other,39,None,Good
+"(-inf,0)",18,3104,"(-inf,100)",M,Single,31,Bank,Good
+"[200,inf)",36,3913,"(-inf,100)",M,Single,23,None,Good
+"(-inf,0)",24,3021,"(-inf,100)",M,Other,24,None,Good
+No acc,10,1364,"(-inf,100)",F,Other,64,None,Good
+"[0,200)",12,625,"(-inf,100)",M,Other,26,Bank,Good
+"(-inf,0)",12,1200,No acc,F,Other,23,Bank,Good
+No acc,12,707,"(-inf,100)",M,Single,30,Bank,Good
+No acc,24,2978,No acc,M,Single,32,None,Good
+No acc,15,4657,"(-inf,100)",M,Single,30,None,Good
+No acc,36,2613,"(-inf,100)",M,Single,27,None,Good
+"[0,200)",48,10961,"[1000,inf)",M,Single,27,Bank,Bad
+"(-inf,0)",12,7865,"(-inf,100)",M,Single,53,None,Bad
+No acc,9,1478,"(-inf,100)",M,Single,22,None,Bad
+"(-inf,0)",24,3149,"(-inf,100)",M,Single,22,Bank,Good
+"[200,inf)",36,4210,"(-inf,100)",M,Single,26,None,Bad
+No acc,9,2507,"[500,1000)",M,Single,51,None,Good
+No acc,12,2141,"[100,500)",M,Single,35,None,Good
+"[0,200)",18,866,"(-inf,100)",M,Other,25,None,Good
+No acc,4,1544,"(-inf,100)",M,Single,42,None,Good
+"(-inf,0)",24,1823,"(-inf,100)",M,Single,30,Stores,Bad
+"[0,200)",6,14555,No acc,M,Single,23,None,Bad
+"[0,200)",21,2767,"[100,500)",M,Other,61,Bank,Bad
+No acc,12,1291,"(-inf,100)",F,Other,35,None,Good
+"(-inf,0)",30,2522,"(-inf,100)",M,Single,39,None,Good
+"(-inf,0)",24,915,No acc,F,Other,29,Bank,Bad
+No acc,6,1595,"(-inf,100)",M,Single,51,None,Good
+"(-inf,0)",48,4605,"(-inf,100)",M,Single,24,None,Bad
+No acc,12,1185,"(-inf,100)",F,Other,27,None,Good
+No acc,12,3447,"[500,1000)",F,Other,35,None,Good
+No acc,24,1258,"(-inf,100)",M,Single,25,None,Good
+No acc,12,717,"(-inf,100)",M,Single,52,None,Good
+No acc,6,1204,"[100,500)",M,Single,35,Bank,Good
+"[200,inf)",24,1925,"(-inf,100)",M,Single,26,None,Good
+No acc,18,433,"(-inf,100)",F,Other,22,None,Bad
+"(-inf,0)",6,666,"[1000,inf)",F,Other,39,None,Good
+"[200,inf)",12,2251,"(-inf,100)",F,Other,46,None,Good
+"[0,200)",30,2150,"(-inf,100)",F,Other,24,Bank,Bad
+No acc,24,4151,"[100,500)",M,Single,35,None,Good
+"[0,200)",9,2030,No acc,M,Single,24,None,Good
+"[0,200)",60,7418,No acc,M,Single,27,None,Good
+No acc,24,2684,"(-inf,100)",M,Single,35,None,Good
+"(-inf,0)",12,2149,"(-inf,100)",M,Other,29,None,Bad
+No acc,15,3812,"[100,500)",F,Other,23,None,Good
+No acc,11,1154,"[100,500)",F,Other,57,None,Good
+"(-inf,0)",12,1657,"(-inf,100)",M,Single,27,None,Good
+"(-inf,0)",24,1603,"(-inf,100)",F,Other,55,None,Good
+"(-inf,0)",18,5302,"(-inf,100)",M,Single,36,None,Good
+No acc,12,2748,"(-inf,100)",F,Other,57,Bank,Good
+No acc,10,1231,"(-inf,100)",M,Single,32,None,Good
+"[0,200)",15,802,"(-inf,100)",M,Single,37,None,Bad
+No acc,36,6304,No acc,M,Single,36,None,Good
+No acc,24,1533,"(-inf,100)",F,Other,38,Stores,Good
+"(-inf,0)",14,8978,"(-inf,100)",M,Other,45,None,Bad
+No acc,24,999,No acc,M,Single,25,None,Good
+No acc,18,2662,No acc,M,Single,32,None,Good
+No acc,12,1402,"[500,1000)",F,Other,37,None,Good
+"[0,200)",48,12169,No acc,M,Single,36,None,Good
+"[0,200)",48,3060,"(-inf,100)",M,Single,28,None,Bad
+"(-inf,0)",30,11998,"(-inf,100)",M,Other,34,None,Bad
+No acc,9,2697,"(-inf,100)",M,Single,32,None,Good
+No acc,18,2404,"(-inf,100)",F,Other,26,None,Good
+"(-inf,0)",12,1262,No acc,M,Other,49,None,Good
+No acc,6,4611,"(-inf,100)",F,Other,32,None,Bad
+No acc,24,1901,"[100,500)",M,Single,29,None,Good
+No acc,15,3368,"[1000,inf)",M,Single,23,None,Good
+No acc,12,1574,"(-inf,100)",M,Single,50,None,Good
+"[200,inf)",18,1445,No acc,M,Single,49,Bank,Good
+No acc,15,1520,No acc,M,Single,63,None,Good
+"[0,200)",24,3878,"[100,500)",M,Other,37,None,Good
+"(-inf,0)",47,10722,"(-inf,100)",F,Other,35,None,Good
+"(-inf,0)",48,4788,"(-inf,100)",M,Single,26,None,Good
+"[0,200)",48,7582,"[100,500)",M,Single,31,None,Good
+"[0,200)",12,1092,"(-inf,100)",F,Other,49,None,Good
+"(-inf,0)",24,1024,"(-inf,100)",M,Other,48,Stores,Bad
+No acc,12,1076,"(-inf,100)",M,Other,26,None,Good
+"[0,200)",36,9398,"(-inf,100)",M,Other,28,None,Bad
+"(-inf,0)",24,6419,"(-inf,100)",F,Other,44,None,Good
+"[200,inf)",42,4796,"(-inf,100)",M,Single,56,None,Good
+No acc,48,7629,No acc,M,Other,46,Bank,Good
+"[0,200)",48,9960,"(-inf,100)",F,Other,26,None,Bad
+No acc,12,4675,No acc,F,Other,20,None,Good
+No acc,10,1287,No acc,M,Single,45,None,Good
+No acc,18,2515,"(-inf,100)",M,Single,43,None,Good
+"[0,200)",21,2745,"[1000,inf)",M,Single,32,None,Good
+No acc,6,672,"(-inf,100)",F,Other,54,None,Good
+"[0,200)",36,3804,"(-inf,100)",F,Other,42,None,Bad
+"[200,inf)",24,1344,No acc,M,Single,37,Bank,Bad
+"(-inf,0)",10,1038,"(-inf,100)",M,Single,49,None,Good
+No acc,48,10127,"[500,1000)",M,Single,44,Bank,Bad
+No acc,6,1543,"[1000,inf)",M,Other,33,None,Good
+No acc,30,4811,No acc,F,Other,24,Stores,Good
+"(-inf,0)",12,727,"[100,500)",M,Other,33,None,Bad
+"[0,200)",8,1237,"(-inf,100)",F,Other,24,None,Bad
+"[0,200)",9,276,"(-inf,100)",M,Other,22,None,Good
+"[0,200)",48,5381,No acc,M,Single,40,Bank,Good
+No acc,24,5511,"[100,500)",M,Single,25,Stores,Good
+"[200,inf)",24,3749,"(-inf,100)",F,Other,26,None,Good
+"[0,200)",12,685,"(-inf,100)",M,Other,25,Bank,Bad
+"[200,inf)",4,1494,No acc,M,Single,29,None,Good
+"(-inf,0)",36,2746,"(-inf,100)",M,Single,31,Bank,Bad
+"(-inf,0)",12,708,"(-inf,100)",M,Single,38,None,Good
+"[0,200)",24,4351,No acc,F,Other,48,None,Good
+No acc,12,701,"(-inf,100)",M,Single,32,None,Good
+"(-inf,0)",15,3643,"(-inf,100)",F,Other,27,None,Good
+"[0,200)",30,4249,"(-inf,100)",M,Other,28,None,Bad
+"(-inf,0)",24,1938,"(-inf,100)",M,Other,32,None,Bad
+"(-inf,0)",24,2910,"(-inf,100)",M,Single,34,None,Good
+"(-inf,0)",18,2659,"[1000,inf)",M,Single,28,None,Good
+No acc,18,1028,"(-inf,100)",F,Other,36,None,Good
+"(-inf,0)",8,3398,"(-inf,100)",M,Single,39,None,Good
+No acc,12,5801,No acc,M,Single,49,None,Good
+No acc,24,1525,"[1000,inf)",F,Other,34,None,Good
+"[200,inf)",36,4473,"(-inf,100)",M,Single,31,None,Good
+"[0,200)",6,1068,"(-inf,100)",M,Single,28,None,Good
+"(-inf,0)",24,6615,"(-inf,100)",M,Single,75,None,Good
+No acc,18,1864,"[100,500)",F,Other,30,None,Bad
+"[0,200)",60,7408,"[100,500)",F,Other,24,None,Bad
+No acc,48,11590,"[100,500)",F,Other,24,Bank,Bad
+"(-inf,0)",24,4110,"(-inf,100)",M,Single,23,Bank,Bad
+"(-inf,0)",6,3384,"(-inf,100)",M,Other,44,None,Bad
+"[0,200)",13,2101,"(-inf,100)",F,Other,23,None,Good
+"(-inf,0)",15,1275,No acc,F,Other,24,None,Bad
+"(-inf,0)",24,4169,"(-inf,100)",M,Single,28,None,Good
+"[0,200)",10,1521,"(-inf,100)",M,Other,31,None,Good
+"[0,200)",24,5743,"(-inf,100)",F,Other,24,None,Good
+"(-inf,0)",21,3599,"(-inf,100)",F,Other,26,None,Good
+"[0,200)",18,3213,"[500,1000)",M,Other,25,None,Good
+"[0,200)",18,4439,"(-inf,100)",M,Single,33,Bank,Good
+"[200,inf)",10,3949,"(-inf,100)",M,Single,37,None,Good
+No acc,15,1459,"(-inf,100)",F,Other,43,None,Good
+"[0,200)",13,882,"(-inf,100)",M,Single,23,None,Good
+"[0,200)",24,3758,"[500,1000)",F,Other,23,None,Good
+No acc,6,1743,"[100,500)",M,Single,34,None,Good
+"[0,200)",9,1136,"[1000,inf)",M,Single,32,None,Bad
+No acc,9,1236,"(-inf,100)",F,Other,23,None,Good
+"[0,200)",9,959,"(-inf,100)",F,Other,29,None,Bad
+No acc,18,3229,No acc,M,Single,38,None,Good
+"(-inf,0)",12,6199,"(-inf,100)",M,Single,28,None,Bad
+No acc,10,727,"[500,1000)",M,Single,46,None,Good
+"[0,200)",24,1246,"(-inf,100)",M,Single,23,Stores,Bad
+No acc,12,2331,No acc,M,Single,49,None,Good
+No acc,36,4463,"(-inf,100)",M,Single,26,None,Bad
+No acc,12,776,"(-inf,100)",M,Other,28,None,Good
+"(-inf,0)",30,2406,"(-inf,100)",F,Other,23,None,Bad
+"[0,200)",18,1239,No acc,M,Single,61,None,Good
+"[200,inf)",12,3399,No acc,M,Single,37,None,Good
+"[200,inf)",12,2247,"(-inf,100)",F,Other,36,Stores,Good
+No acc,6,1766,"(-inf,100)",M,Other,21,None,Good
+"(-inf,0)",18,2473,"(-inf,100)",M,Single,25,None,Bad
+No acc,12,1542,"(-inf,100)",M,Single,36,None,Good
+No acc,18,3850,"(-inf,100)",M,Single,27,None,Good
+"(-inf,0)",18,3650,"(-inf,100)",F,Other,22,None,Good
+"(-inf,0)",36,3446,"(-inf,100)",M,Single,42,None,Bad
+"[0,200)",18,3001,"(-inf,100)",F,Other,40,None,Good
+No acc,36,3079,No acc,M,Single,36,None,Good
+No acc,18,6070,"(-inf,100)",M,Single,33,None,Good
+No acc,10,2146,"(-inf,100)",F,Other,23,None,Good
+No acc,60,13756,No acc,M,Single,63,Bank,Good
+"[0,200)",60,14782,"[100,500)",F,Other,60,Bank,Bad
+"(-inf,0)",48,7685,"(-inf,100)",F,Other,37,None,Bad
+No acc,18,2320,"(-inf,100)",M,Other,34,None,Good
+No acc,7,846,No acc,M,Single,36,None,Good
+"[0,200)",36,14318,"(-inf,100)",M,Single,57,None,Bad
+No acc,6,362,"[100,500)",F,Other,52,None,Good
+"(-inf,0)",20,2212,No acc,M,Single,39,None,Good
+"[0,200)",18,12976,"(-inf,100)",F,Other,38,None,Bad
+No acc,22,1283,No acc,F,Other,25,None,Good
+"[200,inf)",12,1330,"(-inf,100)",M,Single,26,None,Good
+No acc,30,4272,"[100,500)",M,Single,26,None,Good
+No acc,18,2238,"(-inf,100)",F,Other,25,None,Good
+No acc,18,1126,No acc,F,Other,21,None,Good
+"[0,200)",18,7374,"(-inf,100)",M,Single,40,Stores,Good
+"[0,200)",15,2326,"[500,1000)",M,Single,27,Bank,Good
+No acc,9,1449,"(-inf,100)",F,Other,27,None,Good
+No acc,18,1820,"(-inf,100)",M,Other,30,None,Good
+"[0,200)",12,983,"[1000,inf)",F,Other,19,None,Good
+"(-inf,0)",36,3249,"(-inf,100)",M,Single,39,Bank,Good
+"(-inf,0)",6,1957,"(-inf,100)",F,Other,31,None,Good
+No acc,9,2406,"(-inf,100)",M,Single,31,None,Good
+"[0,200)",39,11760,"[100,500)",M,Single,32,None,Good
+"(-inf,0)",12,2578,"(-inf,100)",F,Other,55,None,Good
+"(-inf,0)",36,2348,"(-inf,100)",M,Other,46,None,Good
+"[0,200)",12,1223,"(-inf,100)",M,Other,46,None,Bad
+No acc,24,1516,"[1000,inf)",F,Other,43,None,Good
+No acc,18,1473,"(-inf,100)",M,Other,39,None,Good
+"[0,200)",18,1887,No acc,M,Other,28,Bank,Good
+No acc,24,8648,"(-inf,100)",M,Single,27,Bank,Bad
+No acc,14,802,"(-inf,100)",M,Single,27,None,Good
+"[0,200)",18,2899,No acc,M,Single,43,None,Good
+"[0,200)",24,2039,"(-inf,100)",M,Other,22,None,Bad
+No acc,24,2197,No acc,M,Single,43,None,Good
+"(-inf,0)",15,1053,"(-inf,100)",M,Other,27,None,Good
+No acc,24,3235,"[500,1000)",M,Other,26,None,Good
+"[200,inf)",12,939,"[500,1000)",M,Other,28,None,Bad
+"[0,200)",24,1967,"(-inf,100)",F,Other,20,None,Good
+No acc,33,7253,"(-inf,100)",M,Single,35,None,Good
+No acc,12,2292,"(-inf,100)",M,Single,42,Stores,Bad
+No acc,10,1597,"[500,1000)",M,Single,40,None,Good
+"(-inf,0)",24,1381,No acc,F,Other,35,None,Bad
+No acc,36,5842,"(-inf,100)",M,Single,35,None,Good
+"(-inf,0)",12,2579,"(-inf,100)",M,Single,33,None,Bad
+"(-inf,0)",18,8471,No acc,F,Other,23,None,Good
+No acc,21,2782,"[500,1000)",F,Other,31,Bank,Good
+"[0,200)",18,1042,No acc,F,Other,33,None,Bad
+No acc,15,3186,"[1000,inf)",F,Other,20,None,Good
+"[0,200)",12,2028,No acc,M,Single,30,None,Good
+"[0,200)",12,958,"(-inf,100)",M,Single,47,None,Good
+No acc,21,1591,"[100,500)",M,Single,34,None,Good
+"[0,200)",12,2762,No acc,F,Other,25,Bank,Bad
+"[0,200)",18,2779,"(-inf,100)",M,Other,21,None,Good
+No acc,28,2743,"(-inf,100)",M,Single,29,None,Good
+No acc,18,1149,"[1000,inf)",M,Single,46,None,Good
+No acc,9,1313,"(-inf,100)",M,Single,20,None,Good
+"(-inf,0)",18,1190,"(-inf,100)",F,Other,55,None,Bad
+No acc,5,3448,"(-inf,100)",M,Single,74,None,Good
+"[0,200)",24,11328,"(-inf,100)",M,Single,29,Bank,Bad
+"(-inf,0)",6,1872,"(-inf,100)",M,Single,36,None,Good
+No acc,24,2058,"(-inf,100)",M,Other,33,None,Good
+"(-inf,0)",9,2136,"(-inf,100)",M,Single,25,None,Good
+"[0,200)",12,1484,No acc,M,Other,25,None,Bad
+No acc,6,660,"[500,1000)",M,Other,23,None,Good
+No acc,24,1287,"[1000,inf)",F,Other,37,None,Good
+"(-inf,0)",42,3394,"(-inf,100)",M,Single,65,None,Good
+"[200,inf)",12,609,"(-inf,100)",F,Other,26,None,Bad
+No acc,12,1884,"(-inf,100)",M,Single,39,None,Good
+"(-inf,0)",12,1620,"(-inf,100)",F,Other,30,None,Good
+"[0,200)",20,2629,"(-inf,100)",M,Single,29,Bank,Good
+No acc,12,719,"(-inf,100)",M,Single,41,Bank,Bad
+"[0,200)",48,5096,"(-inf,100)",F,Other,30,None,Bad
+No acc,9,1244,No acc,F,Other,41,None,Good
+"(-inf,0)",36,1842,"(-inf,100)",F,Other,34,None,Bad
+"[0,200)",7,2576,"(-inf,100)",M,Single,35,None,Good
+"[200,inf)",12,1424,No acc,F,Other,55,None,Good
+"[0,200)",15,1512,"[1000,inf)",M,Other,61,Stores,Bad
+No acc,36,11054,No acc,M,Single,30,None,Good
+No acc,6,518,"(-inf,100)",F,Other,29,None,Good
+No acc,12,2759,"(-inf,100)",M,Single,34,None,Good
+No acc,24,2670,"(-inf,100)",M,Single,35,None,Good
+"(-inf,0)",24,4817,"(-inf,100)",M,Single,31,None,Bad
+No acc,24,2679,"(-inf,100)",F,Other,29,None,Good
+"(-inf,0)",11,3905,"(-inf,100)",M,Single,36,None,Good
+"(-inf,0)",12,3386,"(-inf,100)",M,Single,35,None,Bad
+"(-inf,0)",6,343,"(-inf,100)",F,Other,27,None,Good
+No acc,18,4594,"(-inf,100)",M,Single,32,None,Good
+"(-inf,0)",36,3620,"(-inf,100)",M,Single,37,None,Good
+"(-inf,0)",15,1721,"(-inf,100)",M,Single,36,None,Good
+"[0,200)",12,3017,"(-inf,100)",F,Other,34,None,Good
+"[0,200)",12,754,No acc,M,Single,38,None,Good
+No acc,18,1950,"(-inf,100)",M,Single,34,Stores,Good
+"(-inf,0)",24,2924,"(-inf,100)",M,Single,63,Bank,Good
+"(-inf,0)",24,1659,"(-inf,100)",F,Other,29,None,Bad
+No acc,48,7238,No acc,M,Single,32,Bank,Good
+No acc,33,2764,"(-inf,100)",F,Other,26,None,Good
+No acc,24,4679,"(-inf,100)",M,Single,35,None,Good
+"[0,200)",24,3092,"[100,500)",M,Other,22,None,Bad
+"(-inf,0)",6,448,"(-inf,100)",F,Other,23,None,Bad
+"(-inf,0)",9,654,"(-inf,100)",M,Single,28,None,Bad
+No acc,6,1238,No acc,M,Single,36,None,Good
+"[0,200)",18,1245,"(-inf,100)",M,Other,33,None,Bad
+"(-inf,0)",18,3114,"(-inf,100)",F,Other,26,None,Bad
+No acc,39,2569,"[500,1000)",M,Single,24,None,Good
+"[200,inf)",24,5152,"(-inf,100)",M,Single,25,Bank,Good
+"[0,200)",12,1037,"[100,500)",M,Single,39,None,Good
+"(-inf,0)",15,1478,"(-inf,100)",M,Single,44,None,Good
+"[0,200)",12,3573,"(-inf,100)",F,Other,23,None,Good
+"[0,200)",24,1201,"(-inf,100)",M,Single,26,None,Good
+"(-inf,0)",30,3622,"[1000,inf)",F,Other,57,None,Good
+No acc,15,960,"[1000,inf)",F,Other,30,None,Good
+No acc,12,1163,"[500,1000)",M,Single,44,None,Good
+"[0,200)",6,1209,"(-inf,100)",M,Single,47,None,Bad
+No acc,12,3077,"(-inf,100)",M,Single,52,None,Good
+No acc,24,3757,"(-inf,100)",F,Other,62,None,Good
+No acc,10,1418,"[100,500)",M,Single,35,None,Good
+No acc,6,3518,"(-inf,100)",M,Single,26,None,Good
+No acc,12,1934,"(-inf,100)",M,Single,26,None,Good
+"[0,200)",27,8318,"(-inf,100)",F,Other,42,None,Bad
+No acc,6,1237,"[100,500)",F,Other,27,None,Good
+"[0,200)",6,368,No acc,M,Single,38,None,Good
+"(-inf,0)",12,2122,"(-inf,100)",M,Single,39,None,Good
+"(-inf,0)",24,2996,No acc,M,Other,20,None,Bad
+"[0,200)",36,9034,"[100,500)",M,Single,29,None,Bad
+No acc,24,1585,"(-inf,100)",M,Single,40,None,Good
+"[0,200)",18,1301,"(-inf,100)",M,Other,32,None,Good
+"[200,inf)",6,1323,"[100,500)",M,Other,28,None,Good
+"(-inf,0)",24,3123,"(-inf,100)",F,Other,27,None,Bad
+"(-inf,0)",36,5493,"(-inf,100)",M,Single,42,None,Good
+"[200,inf)",9,1126,"[100,500)",M,Other,49,None,Good
+"[0,200)",24,1216,"[100,500)",M,Single,38,Bank,Bad
+"(-inf,0)",24,1207,"(-inf,100)",F,Other,24,None,Bad
+No acc,10,1309,No acc,M,Single,27,None,Bad
+"[200,inf)",15,2360,"[500,1000)",M,Single,36,None,Good
+"[0,200)",15,6850,"[100,500)",M,Single,34,None,Bad
+No acc,24,1413,"(-inf,100)",M,Other,28,None,Good
+No acc,39,8588,"[100,500)",M,Single,45,None,Good
+"(-inf,0)",12,759,"(-inf,100)",M,Single,26,None,Bad
+No acc,36,4686,"(-inf,100)",M,Single,32,None,Good
+"[200,inf)",15,2687,"(-inf,100)",M,Single,26,None,Good
+"[0,200)",12,585,"(-inf,100)",M,Other,20,None,Good
+No acc,24,2255,No acc,M,Single,54,None,Good
+"(-inf,0)",6,609,"(-inf,100)",F,Other,37,None,Good
+"(-inf,0)",6,1361,"(-inf,100)",M,Single,40,None,Good
+No acc,36,7127,"(-inf,100)",F,Other,23,None,Bad
+"(-inf,0)",6,1203,"[100,500)",M,Single,43,None,Good
+No acc,6,700,No acc,M,Single,36,None,Good
+No acc,24,5507,"(-inf,100)",M,Single,44,None,Good
+"(-inf,0)",18,3190,"(-inf,100)",F,Other,24,None,Bad
+"(-inf,0)",48,7119,"(-inf,100)",M,Single,53,None,Bad
+No acc,24,3488,"[100,500)",F,Other,23,None,Good
+"[0,200)",18,1113,"(-inf,100)",F,Other,26,None,Good
+"[0,200)",26,7966,"(-inf,100)",M,Single,30,None,Good
+No acc,15,1532,"[100,500)",F,Other,31,None,Good
+No acc,4,1503,"(-inf,100)",M,Single,42,None,Good
+"(-inf,0)",36,2302,"(-inf,100)",M,Other,31,None,Bad
+"(-inf,0)",6,662,"(-inf,100)",M,Single,41,None,Good
+"[0,200)",36,2273,"(-inf,100)",M,Single,32,None,Good
+"[0,200)",15,2631,"[100,500)",F,Other,28,None,Bad
+No acc,12,1503,"(-inf,100)",M,Other,41,None,Good
+No acc,24,1311,"[100,500)",M,Other,26,None,Good
+No acc,24,3105,No acc,M,Single,25,None,Good
+"[200,inf)",21,2319,"(-inf,100)",M,Other,33,None,Bad
+"(-inf,0)",6,1374,No acc,F,Other,75,None,Good
+"[0,200)",18,3612,"(-inf,100)",F,Other,37,None,Good
+"(-inf,0)",48,7763,"(-inf,100)",M,Single,42,Bank,Bad
+"[200,inf)",18,3049,"(-inf,100)",F,Other,45,Stores,Good
+"[0,200)",12,1534,"(-inf,100)",M,Other,23,None,Bad
+No acc,24,2032,"(-inf,100)",M,Single,60,None,Good
+"(-inf,0)",30,6350,No acc,M,Single,31,None,Bad
+"[200,inf)",18,2864,"(-inf,100)",M,Single,34,None,Bad
+No acc,12,1255,"(-inf,100)",M,Single,61,None,Good
+"(-inf,0)",24,1333,"(-inf,100)",M,Single,43,None,Bad
+No acc,24,2022,"(-inf,100)",F,Other,37,None,Good
+No acc,24,1552,"(-inf,100)",M,Single,32,Bank,Good
+"(-inf,0)",12,626,"(-inf,100)",F,Other,24,Bank,Bad
+No acc,48,8858,No acc,M,Single,35,None,Good
+No acc,12,996,No acc,F,Other,23,None,Good
+No acc,6,1750,"[500,1000)",M,Single,45,Bank,Good
+"(-inf,0)",48,6999,"(-inf,100)",M,Other,34,None,Bad
+"[0,200)",12,1995,"[100,500)",M,Single,27,None,Good
+"[0,200)",9,1199,"(-inf,100)",F,Other,67,None,Good
+"[0,200)",12,1331,"(-inf,100)",M,Single,22,Stores,Bad
+"[0,200)",18,2278,"[100,500)",F,Other,28,None,Bad
+No acc,21,5003,No acc,F,Other,29,Bank,Bad
+"(-inf,0)",24,3552,"(-inf,100)",M,Single,27,Bank,Bad
+"[0,200)",18,1928,"(-inf,100)",M,Single,31,None,Bad
+"(-inf,0)",24,2964,No acc,M,Single,49,Bank,Good
+"(-inf,0)",24,1546,"(-inf,100)",M,Single,24,Bank,Bad
+"[200,inf)",6,683,"(-inf,100)",F,Other,29,Bank,Good
+"[0,200)",36,12389,No acc,M,Single,37,None,Bad
+"[0,200)",24,4712,No acc,M,Single,37,Bank,Good
+"[0,200)",24,1553,"[100,500)",F,Other,23,None,Good
+"(-inf,0)",12,1372,"(-inf,100)",M,Other,36,None,Bad
+No acc,24,2578,"[1000,inf)",M,Single,34,None,Good
+"[0,200)",48,3979,No acc,M,Single,41,None,Good
+"(-inf,0)",48,6758,"(-inf,100)",F,Other,31,None,Bad
+"(-inf,0)",24,3234,"(-inf,100)",F,Other,23,None,Bad
+No acc,30,5954,"(-inf,100)",M,Single,38,None,Good
+No acc,24,5433,No acc,F,Other,26,None,Good
+"(-inf,0)",15,806,"(-inf,100)",F,Other,22,None,Good
+"[0,200)",9,1082,"(-inf,100)",M,Single,27,None,Good
+No acc,15,2788,"(-inf,100)",F,Other,24,Bank,Good
+"[0,200)",12,2930,"(-inf,100)",F,Other,27,None,Good
+No acc,24,1927,No acc,F,Other,33,None,Good
+"[0,200)",36,2820,"(-inf,100)",M,Other,27,None,Bad
+No acc,24,937,"(-inf,100)",M,Other,27,None,Good
+"[0,200)",18,1056,"(-inf,100)",M,Single,30,Bank,Bad
+"[0,200)",12,3124,"(-inf,100)",M,Single,49,Bank,Good
+No acc,9,1388,"(-inf,100)",F,Other,26,None,Good
+"[0,200)",36,2384,"(-inf,100)",M,Single,33,None,Bad
+No acc,12,2133,No acc,F,Other,52,None,Good
+"(-inf,0)",18,2039,"(-inf,100)",F,Other,20,Bank,Bad
+"(-inf,0)",9,2799,"(-inf,100)",M,Single,36,None,Good
+"(-inf,0)",12,1289,"(-inf,100)",M,Single,21,None,Good
+"(-inf,0)",18,1217,"(-inf,100)",M,Other,47,None,Bad
+"(-inf,0)",12,2246,"(-inf,100)",M,Single,60,None,Bad
+"(-inf,0)",12,385,"(-inf,100)",F,Other,58,None,Good
+"[0,200)",24,1965,No acc,F,Other,42,None,Good
+No acc,21,1572,"[1000,inf)",F,Other,36,Bank,Good
+"[0,200)",24,2718,"(-inf,100)",F,Other,20,None,Bad
+"(-inf,0)",24,1358,No acc,M,Single,40,Stores,Bad
+"[0,200)",6,931,"[100,500)",F,Other,32,Stores,Bad
+"(-inf,0)",24,1442,"(-inf,100)",F,Other,23,None,Bad
+"[0,200)",24,4241,"(-inf,100)",M,Single,36,None,Bad
+No acc,18,2775,"(-inf,100)",M,Single,31,Bank,Bad
+No acc,24,3863,"(-inf,100)",M,Single,32,None,Good
+"[0,200)",7,2329,"(-inf,100)",F,Other,45,None,Good
+"[0,200)",9,918,"(-inf,100)",F,Other,30,None,Bad
+"[0,200)",24,1837,"(-inf,100)",F,Other,34,Bank,Bad
+No acc,36,3349,"(-inf,100)",F,Other,28,None,Bad
+"[200,inf)",10,1275,"(-inf,100)",F,Other,23,None,Good
+"(-inf,0)",24,2828,"[500,1000)",M,Single,22,Stores,Good
+No acc,24,4526,"(-inf,100)",M,Single,74,None,Good
+"[0,200)",36,2671,"[100,500)",F,Other,50,None,Bad
+No acc,18,2051,"(-inf,100)",M,Single,33,None,Good
+No acc,15,1300,No acc,M,Single,45,Bank,Good
+"(-inf,0)",12,741,"[100,500)",F,Other,22,None,Bad
+"[200,inf)",10,1240,"[100,500)",F,Other,48,None,Bad
+"(-inf,0)",21,3357,"[1000,inf)",F,Other,29,Bank,Good
+"(-inf,0)",24,3632,"(-inf,100)",F,Other,22,Bank,Good
+No acc,18,1808,"(-inf,100)",F,Other,22,None,Bad
+"[0,200)",48,12204,No acc,M,Single,48,Bank,Good
+"[0,200)",60,9157,No acc,M,Single,27,None,Good
+"(-inf,0)",6,3676,"(-inf,100)",M,Single,37,None,Good
+"[0,200)",30,3441,"[100,500)",F,Other,21,None,Bad
+No acc,12,640,"(-inf,100)",M,Other,49,None,Good
+"[0,200)",21,3652,"(-inf,100)",M,Single,27,None,Good
+No acc,18,1530,"(-inf,100)",M,Single,32,Bank,Bad
+No acc,48,3914,No acc,M,Other,38,Bank,Bad
+"(-inf,0)",12,1858,"(-inf,100)",F,Other,22,None,Good
+"(-inf,0)",18,2600,"(-inf,100)",M,Single,65,None,Bad
+No acc,15,1979,No acc,M,Single,35,None,Good
+"[200,inf)",6,2116,"(-inf,100)",M,Single,41,None,Good
+"[0,200)",9,1437,"[100,500)",M,Single,29,None,Bad
+No acc,42,4042,"[500,1000)",M,Single,36,None,Good
+No acc,9,3832,No acc,M,Single,64,None,Good
+"(-inf,0)",24,3660,"(-inf,100)",F,Other,28,None,Good
+"(-inf,0)",18,1553,"(-inf,100)",M,Single,44,Bank,Bad
+"[0,200)",15,1444,No acc,M,Single,23,None,Good
+No acc,9,1980,"(-inf,100)",F,Other,19,None,Bad
+"[0,200)",24,1355,"(-inf,100)",F,Other,25,None,Bad
+No acc,12,1393,"(-inf,100)",M,Single,47,Bank,Good
+No acc,24,1376,"[500,1000)",F,Other,28,None,Good
+No acc,60,15653,"(-inf,100)",M,Single,21,None,Good
+No acc,12,1493,"(-inf,100)",F,Other,34,None,Good
+"(-inf,0)",42,4370,"(-inf,100)",M,Single,26,Bank,Bad
+"(-inf,0)",18,750,"(-inf,100)",F,Other,27,None,Bad
+"[0,200)",15,1308,"(-inf,100)",M,Single,38,None,Good
+No acc,15,4623,"[100,500)",M,Single,40,None,Bad
+No acc,24,1851,"(-inf,100)",M,Other,33,None,Good
+"(-inf,0)",18,1880,"(-inf,100)",M,Other,32,None,Good
+No acc,36,7980,No acc,M,Single,27,None,Bad
+"(-inf,0)",30,4583,"(-inf,100)",M,Other,32,None,Good
+No acc,12,1386,"[500,1000)",F,Other,26,None,Bad
+"[200,inf)",24,947,"(-inf,100)",M,Single,38,Bank,Bad
+"(-inf,0)",12,684,"(-inf,100)",M,Single,40,None,Bad
+"(-inf,0)",48,7476,"(-inf,100)",M,Single,50,None,Good
+"[0,200)",12,1922,"(-inf,100)",M,Single,37,None,Bad
+"(-inf,0)",24,2303,"(-inf,100)",M,Single,45,None,Bad
+"[0,200)",36,8086,"[100,500)",M,Single,42,None,Bad
+No acc,24,2346,"(-inf,100)",M,Single,35,None,Good
+"(-inf,0)",14,3973,"(-inf,100)",M,Single,22,None,Good
+"[0,200)",12,888,"(-inf,100)",M,Single,41,Bank,Bad
+No acc,48,10222,No acc,M,Single,37,Stores,Good
+"[0,200)",30,4221,"(-inf,100)",F,Other,28,None,Good
+"[0,200)",18,6361,"(-inf,100)",M,Single,41,None,Good
+"[200,inf)",12,1297,"(-inf,100)",M,Other,23,None,Good
+"(-inf,0)",12,900,No acc,M,Other,23,None,Bad
+No acc,21,2241,"(-inf,100)",M,Single,50,None,Good
+"[0,200)",6,1050,"(-inf,100)",M,Single,35,Stores,Good
+"[200,inf)",6,1047,"(-inf,100)",F,Other,50,None,Good
+No acc,24,6314,"(-inf,100)",M,Single,27,Bank,Good
+"[0,200)",30,3496,"[1000,inf)",M,Single,34,Stores,Good
+No acc,48,3609,"(-inf,100)",F,Other,27,Stores,Good
+"(-inf,0)",12,4843,"(-inf,100)",M,Single,43,None,Bad
+"[200,inf)",30,3017,"(-inf,100)",M,Single,47,None,Good
+No acc,24,4139,"[100,500)",M,Single,27,None,Good
+No acc,36,5742,"[100,500)",M,Single,31,None,Good
+No acc,60,10366,"(-inf,100)",M,Single,42,None,Good
+No acc,6,2080,"[500,1000)",M,Other,24,None,Good
+No acc,21,2580,"[500,1000)",M,Single,41,Bank,Bad
+No acc,30,4530,"(-inf,100)",F,Other,26,None,Good
+No acc,24,5150,"(-inf,100)",M,Single,33,None,Good
+"[0,200)",72,5595,"[100,500)",M,Other,24,None,Bad
+"(-inf,0)",24,2384,"(-inf,100)",M,Single,64,Bank,Good
+No acc,18,1453,"(-inf,100)",F,Other,26,None,Good
+No acc,6,1538,"(-inf,100)",F,Other,56,None,Good
+No acc,12,2279,No acc,M,Single,37,None,Good
+No acc,15,1478,"(-inf,100)",M,Other,33,Bank,Good
+No acc,24,5103,"(-inf,100)",M,Other,47,None,Good
+"[0,200)",36,9857,"[100,500)",M,Single,31,None,Good
+No acc,60,6527,No acc,M,Single,34,None,Good
+"[200,inf)",10,1347,No acc,M,Single,27,None,Good
+"[0,200)",36,2862,"[100,500)",M,Single,30,None,Good
+No acc,9,2753,"[100,500)",M,Single,35,None,Good
+"(-inf,0)",12,3651,"[1000,inf)",M,Single,31,None,Good
+"(-inf,0)",15,975,"(-inf,100)",M,Other,25,None,Good
+"[0,200)",15,2631,"[100,500)",F,Other,25,None,Good
+"[0,200)",24,2896,"[100,500)",M,Single,29,None,Good
+"(-inf,0)",6,4716,No acc,M,Single,44,None,Good
+No acc,24,2284,"(-inf,100)",M,Single,28,None,Good
+No acc,6,1236,"[500,1000)",M,Single,50,None,Good
+"[0,200)",12,1103,"(-inf,100)",M,Single,29,None,Good
+No acc,12,926,"(-inf,100)",F,Other,38,None,Good
+No acc,18,1800,"(-inf,100)",M,Single,24,None,Good
+"[200,inf)",15,1905,"(-inf,100)",M,Single,40,None,Good
+No acc,12,1123,"[500,1000)",F,Other,29,None,Bad
+"(-inf,0)",48,6331,"(-inf,100)",M,Single,46,None,Bad
+"[200,inf)",24,1377,"[100,500)",F,Other,47,None,Good
+"[0,200)",30,2503,"[100,500)",M,Single,41,Stores,Good
+"[0,200)",27,2528,"(-inf,100)",F,Other,32,None,Good
+No acc,15,5324,"[500,1000)",F,Other,35,None,Good
+"[0,200)",48,6560,"[100,500)",M,Single,24,None,Bad
+"[0,200)",12,2969,"(-inf,100)",F,Other,25,None,Bad
+"[0,200)",9,1206,"(-inf,100)",F,Other,25,None,Good
+"[0,200)",9,2118,"(-inf,100)",M,Single,37,None,Good
+No acc,18,629,"[500,1000)",M,Single,32,Bank,Good
+"(-inf,0)",6,1198,"(-inf,100)",F,Other,35,None,Bad
+No acc,21,2476,No acc,M,Single,46,None,Good
+"(-inf,0)",9,1138,"(-inf,100)",M,Single,25,None,Good
+"[0,200)",60,14027,"(-inf,100)",M,Single,27,None,Bad
+No acc,30,7596,No acc,M,Single,63,None,Good
+No acc,30,3077,No acc,M,Single,40,None,Good
+No acc,18,1505,"(-inf,100)",M,Single,32,None,Good
+"[200,inf)",24,3148,No acc,M,Single,31,None,Good
+"[0,200)",20,6148,"[100,500)",M,Other,31,Bank,Good
+"[200,inf)",9,1337,"(-inf,100)",M,Single,34,None,Bad
+"[0,200)",6,433,"[1000,inf)",F,Other,24,Bank,Bad
+"(-inf,0)",12,1228,"(-inf,100)",F,Other,24,None,Bad
+"[0,200)",9,790,"[500,1000)",F,Other,66,None,Good
+No acc,27,2570,"(-inf,100)",F,Other,21,None,Bad
+No acc,6,250,"[1000,inf)",F,Other,41,Bank,Good
+No acc,15,1316,"[500,1000)",M,Other,47,None,Good
+"(-inf,0)",18,1882,"(-inf,100)",F,Other,25,Bank,Bad
+"[0,200)",48,6416,"(-inf,100)",F,Other,59,None,Bad
+"[200,inf)",24,1275,"[1000,inf)",M,Other,36,None,Good
+"[0,200)",24,6403,"(-inf,100)",M,Single,33,None,Good
+"(-inf,0)",24,1987,"(-inf,100)",M,Single,21,None,Bad
+"[0,200)",8,760,"(-inf,100)",F,Other,44,None,Good
+No acc,24,2603,"[1000,inf)",F,Other,28,None,Good
+No acc,4,3380,"(-inf,100)",F,Other,37,None,Good
+"[0,200)",36,3990,No acc,F,Other,29,Bank,Good
+"[0,200)",24,11560,"(-inf,100)",F,Other,23,None,Bad
+"(-inf,0)",18,4380,"[100,500)",M,Single,35,None,Good
+No acc,6,6761,"(-inf,100)",M,Single,45,None,Good
+"[0,200)",30,4280,"[100,500)",F,Other,26,None,Bad
+"(-inf,0)",24,2325,"[100,500)",M,Single,32,Bank,Good
+"[0,200)",10,1048,"(-inf,100)",M,Single,23,Stores,Good
+No acc,21,3160,No acc,M,Single,41,None,Good
+"(-inf,0)",24,2483,"[500,1000)",M,Single,22,Stores,Good
+"(-inf,0)",39,14179,No acc,M,Single,30,None,Good
+"(-inf,0)",13,1797,"(-inf,100)",M,Single,28,Bank,Good
+"(-inf,0)",15,2511,"(-inf,100)",F,Other,23,None,Good
+"(-inf,0)",12,1274,"(-inf,100)",F,Other,37,None,Bad
+No acc,21,5248,No acc,M,Single,26,None,Good
+No acc,15,3029,"(-inf,100)",M,Single,33,None,Good
+"(-inf,0)",6,428,"(-inf,100)",F,Other,49,Bank,Good
+"(-inf,0)",18,976,"(-inf,100)",F,Other,23,None,Bad
+"[0,200)",12,841,"[100,500)",F,Other,23,None,Good
+No acc,30,5771,"(-inf,100)",F,Other,25,None,Good
+No acc,12,1555,"[1000,inf)",M,Single,55,None,Bad
+"(-inf,0)",24,1285,No acc,F,Other,32,None,Bad
+"[200,inf)",6,1299,"(-inf,100)",M,Single,74,None,Good
+"[200,inf)",15,1271,No acc,M,Single,39,None,Bad
+No acc,24,1393,"(-inf,100)",M,Single,31,None,Good
+"(-inf,0)",12,691,"(-inf,100)",M,Single,35,None,Bad
+No acc,15,5045,No acc,F,Other,59,None,Good
+"(-inf,0)",18,2124,"(-inf,100)",F,Other,24,None,Bad
+"(-inf,0)",12,2214,"(-inf,100)",M,Single,24,None,Good
+No acc,21,12680,No acc,M,Single,30,None,Bad
+No acc,24,2463,"[100,500)",M,Other,27,None,Good
+"[0,200)",12,1155,"(-inf,100)",M,Other,40,Bank,Good
+"(-inf,0)",30,3108,"(-inf,100)",M,Other,31,None,Bad
+No acc,10,2901,No acc,F,Other,31,None,Good
+"[0,200)",12,3617,"(-inf,100)",M,Single,28,None,Good
+No acc,12,1655,"(-inf,100)",M,Single,63,None,Good
+"(-inf,0)",24,2812,No acc,F,Other,26,None,Good
+"(-inf,0)",36,8065,"(-inf,100)",F,Other,25,None,Bad
+No acc,21,3275,"(-inf,100)",M,Single,36,None,Good
+No acc,24,2223,"[100,500)",M,Single,52,Bank,Good
+"[200,inf)",12,1480,"[500,1000)",M,Single,66,Bank,Good
+"(-inf,0)",24,1371,No acc,F,Other,25,None,Bad
+No acc,36,3535,"(-inf,100)",M,Single,37,None,Good
+"(-inf,0)",18,3509,"(-inf,100)",F,Other,25,None,Good
+No acc,36,5711,"[1000,inf)",M,Single,38,None,Good
+"[0,200)",18,3872,"(-inf,100)",F,Other,67,None,Good
+"[0,200)",39,4933,"(-inf,100)",M,Single,25,None,Bad
+No acc,24,1940,"[1000,inf)",M,Single,60,None,Good
+"[0,200)",12,1410,"(-inf,100)",M,Single,31,None,Good
+"[0,200)",12,836,"[100,500)",F,Other,23,Bank,Bad
+"[0,200)",20,6468,No acc,M,Other,60,None,Good
+"[0,200)",18,1941,"[1000,inf)",M,Single,35,None,Good
+No acc,22,2675,"[500,1000)",M,Single,40,None,Good
+No acc,48,2751,No acc,M,Single,38,None,Good
+"[0,200)",48,6224,"(-inf,100)",M,Single,50,None,Bad
+"(-inf,0)",40,5998,"(-inf,100)",M,Single,27,Bank,Bad
+"[0,200)",21,1188,"(-inf,100)",F,Other,39,None,Bad
+No acc,24,6313,No acc,M,Single,41,None,Good
+No acc,6,1221,No acc,M,Other,27,None,Good
+"[200,inf)",24,2892,"(-inf,100)",M,Other,51,None,Good
+No acc,24,3062,"[500,1000)",M,Single,32,None,Good
+No acc,9,2301,"[100,500)",F,Other,22,None,Good
+"(-inf,0)",18,7511,No acc,M,Single,51,None,Bad
+No acc,12,1258,"(-inf,100)",F,Other,22,None,Good
+No acc,24,717,No acc,M,Other,54,None,Good
+"[0,200)",9,1549,No acc,M,Single,35,None,Good
+No acc,24,1597,"(-inf,100)",M,Single,54,None,Good
+"[0,200)",18,1795,"(-inf,100)",F,Other,48,Bank,Good
+"(-inf,0)",20,4272,"(-inf,100)",F,Other,24,None,Good
+No acc,12,976,No acc,M,Single,35,None,Good
+"[0,200)",12,7472,No acc,F,Other,24,None,Good
+"(-inf,0)",36,9271,"(-inf,100)",M,Single,24,None,Bad
+"[0,200)",6,590,"(-inf,100)",M,Other,26,None,Good
+No acc,12,930,No acc,M,Single,65,None,Good
+"[0,200)",42,9283,"(-inf,100)",M,Single,55,Bank,Good
+"[0,200)",15,1778,"(-inf,100)",F,Other,26,None,Bad
+"[0,200)",8,907,"(-inf,100)",M,Other,26,None,Good
+"[0,200)",6,484,"(-inf,100)",M,Other,28,Bank,Good
+"(-inf,0)",36,9629,"(-inf,100)",M,Single,24,None,Bad
+"(-inf,0)",48,3051,"(-inf,100)",M,Single,54,None,Bad
+"(-inf,0)",48,3931,"(-inf,100)",M,Single,46,None,Bad
+"[0,200)",36,7432,"(-inf,100)",F,Other,54,None,Good
+No acc,6,1338,"[500,1000)",M,Other,62,None,Good
+No acc,6,1554,"(-inf,100)",F,Other,24,None,Good
+"(-inf,0)",36,15857,"(-inf,100)",M,Other,43,None,Good
+"(-inf,0)",18,1345,"(-inf,100)",M,Other,26,Bank,Bad
+No acc,12,1101,"(-inf,100)",M,Other,27,None,Good
+"[200,inf)",12,3016,"(-inf,100)",M,Other,24,None,Good
+"(-inf,0)",36,2712,"(-inf,100)",M,Single,41,Bank,Bad
+"(-inf,0)",8,731,"(-inf,100)",M,Single,47,None,Good
+No acc,18,3780,"(-inf,100)",M,Other,35,None,Good
+"(-inf,0)",21,1602,"(-inf,100)",M,Other,30,None,Good
+"(-inf,0)",18,3966,"(-inf,100)",F,Other,33,Bank,Bad
+No acc,18,4165,"(-inf,100)",M,Single,36,Stores,Bad
+"(-inf,0)",36,8335,No acc,M,Single,47,None,Bad
+"[0,200)",48,6681,No acc,M,Single,38,None,Good
+No acc,24,2375,"[500,1000)",M,Single,44,None,Good
+"(-inf,0)",18,1216,"(-inf,100)",F,Other,23,None,Bad
+"(-inf,0)",45,11816,"(-inf,100)",M,Single,29,None,Bad
+"[0,200)",24,5084,No acc,F,Other,42,None,Good
+"[200,inf)",15,2327,"(-inf,100)",F,Other,25,None,Bad
+"(-inf,0)",12,1082,"(-inf,100)",M,Single,48,Bank,Bad
+No acc,12,886,No acc,F,Other,21,None,Good
+No acc,4,601,"(-inf,100)",F,Other,23,None,Good
+"(-inf,0)",24,2957,"(-inf,100)",M,Single,63,None,Good
+No acc,24,2611,"(-inf,100)",M,Other,46,None,Good
+"(-inf,0)",36,5179,"(-inf,100)",M,Single,29,None,Bad
+No acc,21,2993,"(-inf,100)",M,Single,28,Stores,Good
+No acc,18,1943,"(-inf,100)",F,Other,23,None,Bad
+No acc,24,1559,"(-inf,100)",M,Single,50,Bank,Good
+No acc,18,3422,"(-inf,100)",M,Single,47,Bank,Good
+"[0,200)",21,3976,No acc,M,Single,35,None,Good
+No acc,18,6761,No acc,M,Single,68,None,Bad
+No acc,24,1249,"(-inf,100)",M,Other,28,None,Good
+"(-inf,0)",9,1364,"(-inf,100)",M,Single,59,None,Good
+"(-inf,0)",12,709,"(-inf,100)",M,Single,57,Stores,Bad
+"(-inf,0)",20,2235,"(-inf,100)",M,Other,33,Bank,Bad
+No acc,24,4042,No acc,M,Single,43,None,Good
+No acc,15,1471,"(-inf,100)",M,Single,35,None,Good
+"(-inf,0)",18,1442,"(-inf,100)",M,Single,32,None,Bad
+No acc,36,10875,"(-inf,100)",M,Single,45,None,Good
+No acc,24,1474,"[100,500)",M,Other,33,None,Good
+No acc,10,894,No acc,F,Other,40,None,Good
+No acc,15,3343,"(-inf,100)",M,Single,28,None,Good
+"(-inf,0)",15,3959,"(-inf,100)",F,Other,29,None,Bad
+No acc,9,3577,"[100,500)",M,Single,26,None,Good
+No acc,24,5804,"[1000,inf)",M,Single,27,None,Good
+No acc,18,2169,"(-inf,100)",M,Other,28,None,Bad
+"(-inf,0)",24,2439,"(-inf,100)",F,Other,35,None,Bad
+No acc,27,4526,"[1000,inf)",M,Single,32,Stores,Good
+No acc,10,2210,"(-inf,100)",M,Single,25,Bank,Bad
+No acc,15,2221,"[500,1000)",F,Other,20,None,Good
+"(-inf,0)",18,2389,"(-inf,100)",F,Other,27,Stores,Good
+No acc,12,3331,"(-inf,100)",M,Single,42,Stores,Good
+No acc,36,7409,No acc,M,Single,37,None,Good
+"(-inf,0)",12,652,"(-inf,100)",F,Other,24,None,Good
+No acc,36,7678,"[500,1000)",F,Other,40,None,Good
+"[200,inf)",6,1343,"(-inf,100)",M,Single,46,None,Good
+"(-inf,0)",24,1382,"[100,500)",M,Single,26,None,Good
+No acc,15,874,No acc,F,Other,24,None,Good
+"(-inf,0)",12,3590,"(-inf,100)",M,Single,29,None,Good
+"[0,200)",11,1322,"[1000,inf)",F,Other,40,None,Good
+"(-inf,0)",18,1940,"(-inf,100)",M,Single,36,Bank,Good
+No acc,36,3595,"(-inf,100)",M,Single,28,None,Good
+"(-inf,0)",9,1422,"(-inf,100)",M,Single,27,None,Bad
+No acc,30,6742,No acc,M,Single,36,None,Good
+No acc,24,7814,"(-inf,100)",M,Single,38,None,Good
+No acc,24,9277,No acc,M,Other,48,None,Good
+"[0,200)",30,2181,No acc,M,Single,36,None,Good
+No acc,18,1098,"(-inf,100)",F,Other,65,None,Good
+"[0,200)",24,4057,"(-inf,100)",M,Other,43,None,Bad
+"(-inf,0)",12,795,"(-inf,100)",F,Other,53,None,Bad
+"[0,200)",24,2825,No acc,M,Single,34,None,Good
+"[0,200)",48,15672,"(-inf,100)",M,Single,23,None,Bad
+No acc,36,6614,"(-inf,100)",M,Single,34,None,Good
+No acc,28,7824,No acc,M,Single,40,Bank,Good
+"(-inf,0)",27,2442,"(-inf,100)",M,Single,43,Stores,Good
+No acc,15,1829,"(-inf,100)",M,Single,46,None,Good
+"(-inf,0)",12,2171,"(-inf,100)",M,Single,38,Bank,Good
+"[0,200)",36,5800,"(-inf,100)",M,Single,34,None,Good
+No acc,18,1169,No acc,M,Single,29,None,Good
+No acc,36,8947,No acc,M,Single,31,Stores,Good
+"(-inf,0)",21,2606,"(-inf,100)",F,Other,28,None,Good
+No acc,12,1592,"[1000,inf)",F,Other,35,None,Good
+No acc,15,2186,No acc,F,Other,33,Bank,Good
+"(-inf,0)",18,4153,"(-inf,100)",M,Single,42,None,Bad
+"(-inf,0)",16,2625,"(-inf,100)",M,Single,43,Bank,Bad
+No acc,20,3485,No acc,M,Other,44,None,Good
+No acc,36,10477,No acc,M,Single,42,None,Good
+No acc,15,1386,No acc,M,Other,40,None,Good
+No acc,24,1278,"(-inf,100)",M,Single,36,None,Good
+"(-inf,0)",12,1107,"(-inf,100)",M,Single,20,None,Good
+"(-inf,0)",21,3763,No acc,M,Single,24,None,Good
+"[0,200)",36,3711,No acc,M,Other,27,None,Good
+No acc,15,3594,"(-inf,100)",F,Other,46,None,Good
+"[0,200)",9,3195,No acc,F,Other,33,None,Good
+No acc,36,4454,"(-inf,100)",F,Other,34,None,Good
+"[0,200)",24,4736,"(-inf,100)",F,Other,25,Bank,Bad
+"[0,200)",30,2991,No acc,F,Other,25,None,Good
+No acc,11,2142,"[1000,inf)",M,Other,28,None,Good
+"(-inf,0)",24,3161,"(-inf,100)",M,Single,31,None,Bad
+"[0,200)",48,18424,"(-inf,100)",F,Other,32,Bank,Bad
+No acc,10,2848,"[100,500)",M,Single,32,None,Good
+"(-inf,0)",6,14896,"(-inf,100)",M,Single,68,Bank,Bad
+"(-inf,0)",24,2359,"[100,500)",M,Other,33,None,Bad
+"(-inf,0)",24,3345,"(-inf,100)",M,Single,39,None,Bad
+No acc,18,1817,"(-inf,100)",F,Other,28,None,Good
+No acc,48,12749,"[500,1000)",M,Single,37,None,Good
+"(-inf,0)",9,1366,"(-inf,100)",F,Other,22,None,Bad
+"[0,200)",12,2002,"(-inf,100)",M,Single,30,None,Good
+"(-inf,0)",24,6872,"(-inf,100)",M,Other,55,Bank,Bad
+"(-inf,0)",12,697,"(-inf,100)",M,Single,46,Bank,Bad
+"(-inf,0)",18,1049,"(-inf,100)",F,Other,21,None,Good
+"(-inf,0)",48,10297,"(-inf,100)",M,Single,39,Stores,Bad
+No acc,30,1867,No acc,M,Single,58,None,Good
+"(-inf,0)",12,1344,"(-inf,100)",M,Single,43,None,Good
+"(-inf,0)",24,1747,"(-inf,100)",M,Single,24,None,Good
+"[0,200)",9,1670,"(-inf,100)",F,Other,22,None,Bad
+No acc,9,1224,"(-inf,100)",M,Single,30,None,Good
+No acc,12,522,"[500,1000)",M,Single,42,None,Good
+"(-inf,0)",12,1498,"(-inf,100)",F,Other,23,Bank,Good
+"[0,200)",30,1919,"[100,500)",M,Single,30,Stores,Bad
+"[200,inf)",9,745,"(-inf,100)",F,Other,28,None,Bad
+"[0,200)",6,2063,"(-inf,100)",M,Other,30,None,Good
+"[0,200)",60,6288,"(-inf,100)",M,Single,42,None,Bad
+No acc,24,6842,No acc,M,Single,46,None,Good
+No acc,12,3527,No acc,M,Single,45,None,Good
+No acc,10,1546,"(-inf,100)",M,Single,31,None,Good
+No acc,24,929,No acc,M,Single,31,Stores,Good
+No acc,4,1455,"(-inf,100)",M,Single,42,None,Good
+"(-inf,0)",15,1845,"(-inf,100)",F,Other,46,None,Good
+"[0,200)",48,8358,"[500,1000)",F,Other,30,None,Good
+"(-inf,0)",24,3349,"[500,1000)",M,Single,30,None,Bad
+No acc,12,2859,No acc,M,Single,38,None,Good
+No acc,18,1533,"(-inf,100)",M,Other,43,None,Bad
+No acc,24,3621,"[100,500)",M,Single,31,None,Bad
+"[0,200)",18,3590,"(-inf,100)",M,Other,40,None,Good
+"(-inf,0)",36,2145,"(-inf,100)",M,Single,24,None,Bad
+"[0,200)",24,4113,"[500,1000)",F,Other,28,None,Bad
+No acc,36,10974,"(-inf,100)",F,Other,26,None,Bad
+"(-inf,0)",12,1893,"(-inf,100)",F,Other,29,None,Good
+"(-inf,0)",24,1231,"[1000,inf)",F,Other,57,None,Good
+"[200,inf)",30,3656,No acc,M,Single,49,Stores,Good
+"[0,200)",9,1154,"(-inf,100)",M,Single,37,None,Good
+"(-inf,0)",28,4006,"(-inf,100)",M,Single,45,None,Bad
+"[0,200)",24,3069,"[100,500)",M,Single,30,None,Good
+No acc,6,1740,"(-inf,100)",M,Other,30,None,Good
+"[0,200)",21,2353,"(-inf,100)",M,Other,47,None,Good
+No acc,15,3556,No acc,M,Single,29,None,Good
+No acc,24,2397,"[500,1000)",M,Single,35,Bank,Bad
+"[0,200)",6,454,"(-inf,100)",M,Other,22,None,Good
+"[0,200)",30,1715,No acc,F,Other,26,None,Good
+"[0,200)",27,2520,"[500,1000)",M,Single,23,None,Bad
+No acc,15,3568,"(-inf,100)",F,Other,54,Bank,Good
+No acc,42,7166,No acc,M,Other,29,None,Good
+"(-inf,0)",11,3939,"(-inf,100)",M,Single,40,None,Good
+"[0,200)",15,1514,"[100,500)",M,Single,22,None,Good
+No acc,24,7393,"(-inf,100)",M,Single,43,None,Good
+"(-inf,0)",24,1193,"(-inf,100)",F,Other,29,None,Bad
+"(-inf,0)",60,7297,"(-inf,100)",M,Single,36,None,Bad
+No acc,30,2831,"(-inf,100)",F,Other,33,None,Good
+"[200,inf)",24,1258,"[500,1000)",F,Other,57,None,Good
+"[0,200)",6,753,"(-inf,100)",F,Other,64,None,Good
+"[0,200)",18,2427,No acc,M,Single,42,None,Good
+No acc,24,2538,"(-inf,100)",M,Single,47,None,Bad
+"[0,200)",15,1264,"[100,500)",M,Other,25,None,Bad
+"[0,200)",30,8386,"(-inf,100)",M,Single,49,None,Bad
+No acc,48,4844,"(-inf,100)",M,Single,33,Bank,Bad
+"[200,inf)",21,2923,"[100,500)",F,Other,28,Bank,Good
+"(-inf,0)",36,8229,"(-inf,100)",M,Single,26,None,Bad
+No acc,24,2028,"(-inf,100)",M,Single,30,None,Good
+"(-inf,0)",15,1433,"(-inf,100)",F,Other,25,None,Good
+"[200,inf)",42,6289,"(-inf,100)",M,Other,33,None,Good
+No acc,13,1409,"[100,500)",F,Other,64,None,Good
+"(-inf,0)",24,6579,"(-inf,100)",M,Single,29,None,Good
+"[0,200)",24,1743,"(-inf,100)",M,Single,48,None,Good
+No acc,12,3565,No acc,M,Single,37,None,Good
+No acc,15,1569,"[100,500)",M,Single,34,Bank,Good
+"(-inf,0)",18,1936,No acc,M,Other,23,None,Good
+"(-inf,0)",36,3959,"(-inf,100)",M,Single,30,None,Good
+No acc,12,2390,No acc,M,Single,50,None,Good
+No acc,12,1736,"(-inf,100)",F,Other,31,None,Good
+"(-inf,0)",30,3857,"(-inf,100)",M,Other,40,None,Good
+No acc,12,804,"(-inf,100)",M,Single,38,None,Good
+"(-inf,0)",45,1845,"(-inf,100)",M,Single,23,None,Bad
+"[0,200)",45,4576,"[100,500)",M,Single,27,None,Good
