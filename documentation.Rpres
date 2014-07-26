@@ -1,7 +1,24 @@
-Creditapp documentation
+Creditapp Pitch
 ========================================================
 author: Juan Orozco
 date: July 26th, 2014
+
+
+Motivation
+========================================================
+
+Society is becoming increasingly dependent on using credit
+to make purchases and decisions. These days, good credit
+is used for more than just getting a credit card or loan.
+More and more business are making the case that you must
+have good credit before they extend products or services to
+you.
+
+```{r fig.align='center',echo=FALSE,width=1,}
+
+barplot(c('2009'=17.2,'2012'=20.4),
+        main="Consumer Credit Card payments",ylab="USD [Billions]",col=rgb(0,150/255,214/255))
+```
 
 
 Motivation
@@ -13,62 +30,33 @@ determine whether you can get credit for things like:
 * credit card
 * finance your college tuition
 * buy a house or car
-* start up a new business.
+* start up a new business
 
 
-Motivation
+Creditapp
 ========================================================
 
-The creditapp is aimed to people who want to know beforehand
+Creditapp is aimed to people who want to know beforehand
 their likelihood of getting a loan, given the information they
 provide. The algorithm, which is based on a decision tree, will
 predict payment behaivour either as `Good` or `Bad`. 
 
-It still may be possible for lenders to give you a loan, provided
-your credit score is not too low. But be aware that you may pay a
-higher interest rate and more fees since you are more likely to
-default-fail to pay the loan back.
+Even if you scored badly, it still may be possible for lenders to
+give you a loan, provided your credit score is not too low. But be
+aware that you may pay a higher interest rate and more fees since
+you are more likely to default-fail to pay the loan back.
 
 
-Enter a Profile
-========================================================
-In order to receive a result, you first have to enter basic
-personal & financial information, as well as the details of
-the loan you want:
-
-* **Gender:** Checkbox with levels `Male` and `Female`.
-* **Age:** Numeric entry measured in years. Minimum value is
-18 and maximum value is 75.
-* **Marital Status:** Checkbox with levels `Single` and `Other`.
-* **Credit Amount:** Numeric entry measured in Deutsche
-Marks. Minimum value is 500 and maximum value is 20000.
-
-
-Enter a Profile
-=========================================================
-* **Credit Length:** Numeric entry measured in months.
-Minimum value is 6 and maximum value is 60.
-* **Check Account:** Checkbox with levels `Negative Balance`,
-`Between 0 & 200`, `More than 200` and `No check account`.
-* **Savings Account:** Checkbox with levels `Less tha 100`,
-`Between 100 & 500`, `Between 500 & 1000`,`Between 500 & 1000`,
-`More than 1000` and `No savings account`.
-* **Other Installment:** Checkbox with levels `Bank`,`Stores`
-and `None`.
-
-**Note:** You must enter a single value for each field.
-
-
-Getting and Interpreting your results
+How It Works
 ========================================================
 
-Once you entered all the required information you have to press
-the `Submit` button to get your predicted payment behaviour. The
-possible outcomes are `Good` and `Bad`payment behaivour.
+1. Click [here](orojuan.shinyapps.io/creditapp) to go to Creditapp.
+2. Enter your Profile.
+3. Click `Submit` Button to see your predicted payment behaviour.
 
-**Note:** Please be aware that the fist result showed just after
-opening the app is computed based on the defaults.
+**NOTE:** You can go to the documentation tab should you need any help.
 
 **Legal Disclaimer:** The results hereby provided are just for
-informational purposes and cannot be used to demand a loan since
-they may differ from actual scores. 
+informational purposes and hence must not be used to demand a loan
+since they may differ from actual scores.
+
